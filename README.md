@@ -5,7 +5,7 @@
 <img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.png">
 
 
-# Introduction
+## Introduction
 
 Precise eye center localization constitutes a very promising but challenging task in many human interaction
 applications due to many limitations related with the presence of photometric distortions and occlusions as well
@@ -14,6 +14,8 @@ as pose and shape variations.
 ## Network Architecture
 
 <img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png">
+
+## Usage
 
 This sample code tests the DeepPupilNet eye center localizer, which was trained on MUCT, BioID and Gi4E face databases. This script requires the Deep Learning Toolbox.
 
