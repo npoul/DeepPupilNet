@@ -13,7 +13,7 @@ as pose and shape variations.
 
 ## Network Architecture
 
-<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png" width = 600>
+<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png">
 
 This sample code tests the DeepPupilNet eye center localizer, which was trained on MUCT, BioID and Gi4E face databases. This script requires the Deep Learning Toolbox.
 
