@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.jpg" width = 400>
+<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.jpg" width = 600>
 
 
 # Introduction
@@ -17,11 +17,10 @@ Deep Learning Toolbox.
 
 ## Network Architecture
 
-<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png" width = 400>
-![](/img/model.jpg)
-
+<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png" width = 600>
 
 Please cite the following paper if you are using this code:
+
 N. Poulopoulos and E. Z. Psarakis, "DeepPupil Net: Deep Residual Network for Precise Pupil Center Localization", VISAPP, vol. 5, pp. 297-304, 2022
 
 
