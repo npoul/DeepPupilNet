@@ -7,9 +7,7 @@
 
 ## Introduction
 
-Precise eye center localization constitutes a very promising but challenging task in many human interaction
-applications due to many limitations related with the presence of photometric distortions and occlusions as well
-as pose and shape variations. 
+Precise eye center localization constitutes a very promising but challenging task in many human interaction applications due to many limitations related with the presence of photometric distortions and occlusions as well as pose and shape variations. DeepPupil Net is a Fully Convolutional Network (FCN) trained to localize precisely the eye centers by performing image-to-heatmap regression between the eye regions and the corresponding heatmaps. 
 
 ## Network Architecture
 
