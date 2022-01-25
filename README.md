@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.png" width = 600>
+<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.png">
 
 
 # Introduction
