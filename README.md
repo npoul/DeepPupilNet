@@ -2,7 +2,7 @@
 
 --------------------------------------------
 
-<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.jpg" width = 600>
+<img src = "https://github.com/npoul/npoul.github.io/blob/master/images/Precise%20Localizations.png" width = 600>
 
 
 # Introduction
@@ -11,13 +11,11 @@ Precise eye center localization constitutes a very promising but challenging tas
 applications due to many limitations related with the presence of photometric distortions and occlusions as well
 as pose and shape variations. 
 
-This sample code tests the DeepPupilNet eye center localizer, which was 
-trained on MUCT, BioID and Gi4E face databases. This script requires the 
-Deep Learning Toolbox.
-
 ## Network Architecture
 
 <img src = "https://github.com/npoul/npoul.github.io/blob/master/images/DeepEye.png" width = 600>
+
+This sample code tests the DeepPupilNet eye center localizer, which was trained on MUCT, BioID and Gi4E face databases. This script requires the Deep Learning Toolbox.
 
 Please cite the following paper if you are using this code:
 
