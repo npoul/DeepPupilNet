@@ -17,9 +17,7 @@ as pose and shape variations.
 
 ## Usage
 
-This sample code tests the DeepPupilNet eye center localizer, which was trained on MUCT, BioID and Gi4E face databases. This script requires the Deep Learning Toolbox.
-
-Tested on Matlab 2020b
+This sample code tests the DeepPupilNet eye center localizer, which was trained on MUCT, BioID and Gi4E face databases. This script requires the Deep Learning Toolbox. Tested on Matlab 2020b.
 
 Please cite the following paper if you are using this code:
 
